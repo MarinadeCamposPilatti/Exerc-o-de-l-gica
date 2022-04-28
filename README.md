@@ -1,2 +1,3 @@
-# Exercício de lógica
+# Aula 3 - Curso Aprenda a Programar da Ituring
+##Exercício 1: verifique as expressões lógicas
 O indivíduo deve analisar o pedaços de código, usando o comando condicional if/else, e dizer qual será a saída do commando console.log().
