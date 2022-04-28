@@ -1,0 +1,1 @@
+# Exerc-o-de-l-gica
